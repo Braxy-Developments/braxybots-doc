@@ -2,5 +2,6 @@
 
 Welcome to BraxyBots List documentation! This document provides a brief overview of the project and its various components.
 
-#GitBook
+# GitBook
+
 https://docs.braxybots.eu.org/

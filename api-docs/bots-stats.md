@@ -32,4 +32,8 @@ The bot's shard count.
 {% swagger-response status="403: Forbidden" description="You must enter a bot token." %}
 
 {% endswagger-response %}
+
+{% swagger-response status="404: Not Found" description="You entered an invalid bot token." %}
+
+{% endswagger-response %}
 {% endswagger %}

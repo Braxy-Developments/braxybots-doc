@@ -17,6 +17,10 @@ The Bot's token from the bot's profile.
 The bot's server count.
 {% endswagger-parameter %}
 
+{% swagger-parameter in="header" name="usersCount" required="true" %}
+The bot's users count.
+{% endswagger-parameter %}
+
 {% swagger-parameter in="header" name="shardCount" %}
 The bot's shard count.
 {% endswagger-parameter %}

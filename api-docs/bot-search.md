@@ -53,6 +53,7 @@ JSON Example:
  "support": "dsc.gg/braxytm",
  "website": "braxybots.eu.org",
  "serverCount": "123",
+ "usersCount": "123"
 }
 ```
 {% endswagger-response %}

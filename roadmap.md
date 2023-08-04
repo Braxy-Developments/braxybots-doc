@@ -6,6 +6,30 @@ coverY: 0
 
 ##
 
+## Update 3.6 Is Out! :rocket:
+
+:wave: Hello, @everyone !
+
+> ### :loudspeaker: Exciting news for our promoted bots! :tada:
+>
+> Starting today, promoted bots on our platform will have limited voting. This means they will no longer have unlimited votes. Don't worry, they will still get the benefits of promotion and increased visibility!
+>
+> ### :chart\_with\_upwards\_trend: Users Count & Docs :books:
+>
+> We've added a new feature that allows you to keep track of your bot's users count! Now, you can see how many users are enjoying your bot. Also, you can now provide detailed documentation for your bot, making it easier for users to understand and utilize its features.
+>
+> ### :arrows\_counterclockwise: Vote Webhook System with Bcrypt :closed\_lock\_with\_key:
+>
+> We've enhanced the vote system for more security and reliability. All webhooks will now be processed using Bcrypt encryption, ensuring that the data remains secure and tamper-proof. _**YOU CAN ONLY CHANGE WEBHOOK LINK THROUGH BOT EDIT PAGE**_
+>
+> ### :scroll: Short Description Limit
+>
+> To maintain a clean and visually appealing card view, we have set a maximum character limit of 120 for the short description. Make sure your description highlights the best features of your bot within this limit!
+
+**Thank you for being a part of our growing community!** :star2: **If you have any questions or feedback, don't hesitate to reach out to our support team.**
+
+_Happy coding!_ :computer::robot:
+
 ## Version 3.5
 
 :loudspeaker: **Announcement: Update Version 3.5 is Here!** :rocket:

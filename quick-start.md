@@ -26,7 +26,7 @@ To use our api you need to use as authorization header your custom bot's token t
 5. If you have a bot, click on his profile. You will find this box as the picture and after that click the "Copy" button.
 6.
 
-    <figure><img src=".gitbook/assets/Στιγμιότυπο οθόνης 2023-04-02 140913 (1).png" alt="Danger Zone"><figcaption><p>Danger Zone Box</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/Στιγμιότυπο οθόνης 2023-04-02 140913.png" alt="Danger Zone"><figcaption><p>Danger Zone Box</p></figcaption></figure>
 7. Then to start trying our api, you need to open the main file of your bot.
 8. Once you have opened that, copy the next basic code of posting the server count where you bot has joined.
 

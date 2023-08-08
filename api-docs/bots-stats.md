@@ -9,20 +9,20 @@ coverY: 0
 
 {% endswagger-description %}
 
-{% swagger-parameter in="header" name="Authorization" required="true" %}
+{% swagger-parameter type="String" in="header" name="Authorization" required="true" %}
 The Bot's token from the bot's profile.
 {% endswagger-parameter %}
 
-{% swagger-parameter in="header" name="serverCount" required="true" %}
-The bot's server count.
+{% swagger-parameter in="body" name="serverCount" type="String" required="true" %}
+
 {% endswagger-parameter %}
 
-{% swagger-parameter in="header" name="usersCount" required="true" %}
-The bot's users count.
+{% swagger-parameter in="body" name="usersCount" type="String" required="true" %}
+
 {% endswagger-parameter %}
 
-{% swagger-parameter in="header" name="shardCount" %}
-The bot's shard count.
+{% swagger-parameter in="body" name="shardCount" type="String" required="false" %}
+
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="You posted your bot's stats!" %}
